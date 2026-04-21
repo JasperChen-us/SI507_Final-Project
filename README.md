@@ -1,6 +1,7 @@
 # Statistician Network Explorer
 
 This project implements the SI 507 final project using MADStat and MADStaText datasets. It builds a graph-centered explorer for statistical research with an author-topic graph, a coauthorship graph, and a topic-similarity graph.
+website: https://si507final-project-ky36zhb79cmmf52fkflbgx.streamlit.app/
 
 ## Interaction modes
 
